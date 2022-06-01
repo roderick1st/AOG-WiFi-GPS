@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "AOG-WiFi-GPS",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"string": "cpp"
+		}
+	}
+}
